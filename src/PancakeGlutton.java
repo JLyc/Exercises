@@ -22,10 +22,9 @@ import java.util.Comparator;
 import java.lang.StringBuilder;
 
 public class PancakeGlutton {
+    private static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args){
-
-        Scanner scan = new Scanner(System.in);
         int[][] people = new int[10][2];
         StringBuilder ateMost = new StringBuilder();
         StringBuilder ateLeast = new StringBuilder();
