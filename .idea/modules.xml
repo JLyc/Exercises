@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exercises.iml" filepath="$PROJECT_DIR$/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JLyc_Exemples/JLyc_Exemples.iml" filepath="$PROJECT_DIR$/JLyc_Exemples/JLyc_Exemples.iml" />
     </modules>
   </component>
 </project>
