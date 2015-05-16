@@ -84,7 +84,7 @@ public class PancakeGlutton {
     private static int getEatenPancakes() {
         int eatenPancake;
         while(true){
-            if(eatenPancake = scan.nextInt() > 0){
+            if((eatenPancake = scan.nextInt()) > 0){
                 return eatenPancake ;
             }
             else{
